@@ -1,0 +1,16 @@
+
+# Secret / kredensial
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# File sementara
+*.wav
+*.tmp
+*.log
